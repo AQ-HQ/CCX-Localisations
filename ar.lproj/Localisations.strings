@@ -1,10 +1,10 @@
 <dict>
     <key>DARK_MODE_ON</key>
-    <string>الوضع الداكن: مشغل</string>
+    <string>الوضع الداكن: مُفعّل</string>
     <key>DARK_MODE_OFF</key>
     <string>الوضع الداكن: متوقف</string>
     <key>NIGHT_SHIFT_ON</key>
-    <string>النضام الليلي: مشغل</string>
+    <string>النضام الليلي: مُفعّل</string>
     <key>NIGHT_SHIFT_OFF</key>
     <string>النضام الليلي: متوقف</string>
     <key>AIRPLAY_MIRRORING</key>
@@ -22,7 +22,7 @@
     <key>AIRDROP_MENU_EVERYONE</key>
     <string>الجميع</string>
     <key>AIRDROP_MENU_TITLE</key>
-    <string>يمكنم كشف جهازك عبر البث الهوائي للاستلام من الجميع او من جهات الاتصال المعلومة فقط</string>
+    <string>يمكنك كشف جهازك عبر البث الهوائي للاستلام من الجميع او من جهات الاتصال المعلومة فقط</string>
     <key>AIRDROP_MENU_CANCEL</key>
     <string>إلغاء</string>
 </dict>
